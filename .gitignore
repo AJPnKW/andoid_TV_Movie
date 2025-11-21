@@ -1,0 +1,5 @@
+# Block backup files
+*.bak
+
+# Block notes folder
+.my_notes/
