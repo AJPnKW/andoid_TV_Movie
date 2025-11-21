@@ -1,0 +1,14 @@
+# ONLY these domains are allowed to load.
+# Add your own domain first!
+yourdomain.com
+www.yourdomain.com
+
+# streaming hosts you trust / use
+vidsrc.net
+vidsrc.to
+videasy.net
+cloudflarestream.com
+googlevideo.com
+gvt1.com
+youtube.com
+ytimg.com
